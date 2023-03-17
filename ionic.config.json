@@ -1,0 +1,7 @@
+{
+  "name": "Project MobileProgramming",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
